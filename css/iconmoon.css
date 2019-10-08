@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?p0mrin');
+  src:  url('../fonts/icomoon.eot?p0mrin#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?p0mrin') format('truetype'),
+    url('../fonts/icomoon.woff?p0mrin') format('woff'),
+    url('../fonts/icomoon.svg?p0mrin#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-OwnTalents .path1:before {
+  content: "\e900";
+  color: rgb(254, 177, 0);
+}
+.icon-OwnTalents .path2:before {
+  content: "\e901";
+  margin-left: -5.431640625em;
+  color: rgb(254, 177, 0);
+}
+.icon-OwnTalents .path3:before {
+  content: "\e902";
+  margin-left: -5.431640625em;
+  color: rgb(255, 255, 255);
+}
+.icon-OwnTalents .path4:before {
+  content: "\e903";
+  margin-left: -5.431640625em;
+  color: rgb(255, 255, 255);
+}
+.icon-OwnTalents .path5:before {
+  content: "\e904";
+  margin-left: -5.431640625em;
+  color: rgb(255, 255, 255);
+}
+.icon-Rocket .path1:before {
+  content: "\e905";
+  color: rgb(77, 77, 77);
+  opacity: 0.4588;
+}
+.icon-Rocket .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Rocket .path3:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Rocket .path4:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Rocket .path5:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Rocket .path6:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-plus:before {
+  content: "\ea0a";
+}

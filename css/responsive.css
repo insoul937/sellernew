@@ -1,0 +1,25 @@
+@media (max-width: 992px) {
+    .four-block ul li{
+        font-size: 16px;
+    }
+}
+@media (max-width: 767px) {
+    .fb-abs img{
+        max-width: 100%;
+    }
+    .fb-text{
+        font-size: 18px;
+    }
+    .second-block{
+        text-align: center;
+    }
+    .five-single{
+        text-align: center;
+    }
+    .five-single img{
+        margin-bottom: 20px;
+    }
+    .adress{
+        text-align: center !important;
+    }
+}
